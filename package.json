@@ -1,9 +1,4 @@
 {
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
   "dependencies": {
     "framer-motion": "^12.18.1",
     "next": "^15.3.3",
@@ -16,5 +11,11 @@
     "@types/node": "^24.0.1",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "vercel-build": "next build"
   }
 }
