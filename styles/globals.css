@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-darkBg text-white font-futuristic;
+  margin: 0;
+  padding: 0;
+}

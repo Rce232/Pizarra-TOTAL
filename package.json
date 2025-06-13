@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.18.1",
+    "next": "^15.3.3",
+    "next-auth": "^4.24.11",
+    "next-i18next": "^15.4.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.1",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6"
+  }
+}
